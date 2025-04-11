@@ -320,3 +320,6 @@ blockquote cite {
   font-weight: 700;
 }
 /* Global END */
+.marquee-wrap  {
+  display: none !important;
+}
